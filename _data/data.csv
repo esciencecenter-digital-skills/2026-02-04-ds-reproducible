@@ -1,2 +1,2 @@
 venue,address,country,latitude,longitude,humandate,humantime,startdate,enddate,instructor,helper,carpentry,curriculum,title,slug,flavor
-Netherlands eScience Center,"Science Park 402, 1098 XH Amsterdam",NA,52.3566998,4.9569812,"February 04 - 04, 2026",9:30 - 17:00 CET,2026-02-03T23:00:00Z,2026-02-03T23:00:00Z,"Ole Mussmann, Sander van Rijn, Malte Luken",,ds,ds-reproducible,Reproducible research through reusable code,2026-02-04-ds-reproducible,NA
+Netherlands eScience Center,"Science Park 402, 1098 XH Amsterdam",NA,52.3566998,4.9569812,"February 04, 2026",9:30 - 17:00 CET,2026-02-03T23:00:00Z,2026-02-03T23:00:00Z,"Ole Mussmann, Sander van Rijn, Malte Luken",,ds,ds-reproducible,Reproducible research through reusable code,2026-02-04-ds-reproducible,NA
