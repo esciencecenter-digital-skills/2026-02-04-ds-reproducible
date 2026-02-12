@@ -48,19 +48,21 @@ Malte Lüken, Ole Mussmann
 Stefan Kirsch
 
 ## 🗓️ Agenda
-09:45	Introduction
-10:00	Software dependencies
-10:30	Break
-10:45	Software documentation
-11:15   Code conventions and modular coding
-11:30   Break
-11:45   Code conventions and modular coding
-12:30	Lunch Break
-13:30   Next steps: How to make your code reusable
-13:45   Work on project
-15:15   Break
-15:30	Reusability check
-16:15   Wrap up
+| Time  | Topic |
+| ----- | ----- |
+| 09:45	| Introduction |
+| 10:00	| Software dependencies |
+| 10:30	| Break |
+| 10:45	| Software documentation |
+| 11:15 | Code conventions and modular coding |
+| 11:30 | Break |
+| 11:45 | Code conventions and modular coding |
+| 12:30	| Lunch Break |
+| 13:30 | Next steps: How to make your code reusable |
+| 13:45 | Work on project |
+| 15:15 | Break |
+| 15:30	| Reusability check |
+| 16:15 | Wrap up |
 
 ## :ice_skate: Ice-breaker
 
